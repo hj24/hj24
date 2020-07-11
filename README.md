@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 我是 hj24，一名后端开发工程师。
-- 📝 最常用的语言是 Python 和 Golang，最讨厌的语言是 JavaScript。
-- 👾 5aaC5p6c5L2g6Kej5byA5LqG6L+Z5q616K+d77yM6YKj6K+05piO5L2g5piv55yf55qE5b6I6ZeyLi4u
-- ⚡ 暂时只想到这么多，以后慢慢补充吧...
+- 😄  我是 hj24，一名后端开发工程师
+- 📝  最常用的语言是 Python 和 Golang，最讨厌的语言是 JavaScript
+- 💬  如果有需要，可以戳我邮箱，暂时只想到这么多，以后慢慢补充吧...对了，看下面 👇
+- 👾  5oiR5Y+q5piv5peg6IGK5YeR5a2X5pWw6ICM5bey5ZOI5ZOI77yM5pei54S25p2l5LqG77yM6YKj5LiN5aaC5p2lZm9sbG935LiA5rOiLi4u
