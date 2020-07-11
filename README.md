@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好 👋
 
 <!--
 **hj24/hj24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 我是 hj24，一名后端开发工程师。
+- 📝 最常用的语言是 Python 和 Golang，最讨厌的语言是 JavaScript。
+- 👾 5aaC5p6c5L2g6Kej5byA5LqG6L+Z5q616K+d77yM6YKj6K+05piO5L2g5piv55yf55qE5b6I6ZeyLi4u
+- ⚡ 暂时只想到这么多，以后慢慢补充吧...
