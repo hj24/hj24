@@ -12,24 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
+![](https://github-readme-stats.vercel.app/api?username=hj24)
+
+- 🔭 I’m currently working on [@shanbay](https://www.shanbay.com)
+
+#### Languages
+[![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+
+[![](https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
