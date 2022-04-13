@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 
 
-- 🔭 I’m currently working on [@shanbay](https://www.shanbay.com)
+- 🔭 I’m currently working on [@bytedance](https://www.bytedance.com/en/)
 
 ![](https://github-readme-stats.vercel.app/api?username=hj24)
 
