@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 
 
-- 🔭 I’m currently working on [@bytedance](https://www.bytedance.com/en/)
+- 🔭 2022.08 ~ now: I’m currently working on [@Microsoft](https://www.microsoft.com/en-us/about)
+- 🔭 2022.03 ~ 2022.08: Backend Engineer (Global E-commerce) on [@bytedance](https://www.bytedance.com/en/)
+- 🔭 2020.03 ~ 2022.03: Backend Engineer (Infra & SRE) on [@Shanbay](https://web.shanbay.com/web/main)
+
+- 🌱 I’m currently learning NLP & React
 
 ![](https://github-readme-stats.vercel.app/api?username=hj24)
 
