@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=hj24)
 
 #### Languages
-[![](https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-[![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
