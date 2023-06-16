@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🚩 2022.03 ~ 2022.08: Backend Engineer (Global E-commerce) on [@Bytedance](https://www.bytedance.com/en/)
 - 🚩 2020.03 ~ 2022.03: Backend Engineer (Infra & SRE) on [@Shanbay](https://web.shanbay.com/web/main)
 
-- 🌱 I’m currently learning NLP & React
+- 🌱 I’m currently learning UI design
 
 ![](https://github-readme-stats.vercel.app/api?username=hj24)
 
