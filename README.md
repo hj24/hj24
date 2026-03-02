@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ### Hi there 👋 
 
 - 🔭 2025.09 ~ now: Backend Engineer (SaaS & Platform) [@Dify](https://dify.ai/)
-- ⚡ 2022.08 ~ 2025.08: Support Engineer (APGC Dynamics 365 Platform & Customization) [@Microsoft](https://www.microsoft.com/en-us/about)
-- ⚡ 2022.03 ~ 2022.07: Backend Engineer (Global E-commerce) on [@Bytedance](https://www.bytedance.com/en/)
+- ⚡ 2022.07 ~ 2025.08: Support Engineer (APGC Dynamics 365 Platform & Customization) [@Microsoft](https://www.microsoft.com/en-us/about)
+- ⚡ 2022.03 ~ 2022.06: Backend Engineer (Global E-commerce) on [@Bytedance](https://www.bytedance.com/en/)
 - ⚡ 2020.03 ~ 2022.03: Backend Engineer (Infra & SRE) on [@Shanbay](https://web.shanbay.com/web/main)
 
 <!--
